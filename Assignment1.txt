@@ -47,5 +47,5 @@ History-
 JavaScript was created by Brendan Eich in 1995. Eich was working at Netscape Communications at the time, and he was tasked with creating a scripting language that could be used to add interactivity to web pages. Eich named the language LiveScript, but it was later renamed to JavaScript.
 
 6. What is DOM in js?
-Ans. OM stands for Document Object Model. It is a tree-like structure that represents the elements of a web page. The DOM is created by the browser when it loads a web page, and it is used by JavaScript to access and manipulate the elements of the page.
+Ans. DOM stands for Document Object Model. It is a tree-like structure that represents the elements of a web page. The DOM is created by the browser when it loads a web page, and it is used by JavaScript to access and manipulate the elements of the page.
 The DOM is made up of nodes, which are objects that represent the different elements of a web page. The most common types of nodes are elements, attributes, and text nodes. 
