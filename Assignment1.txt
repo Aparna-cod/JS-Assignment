@@ -1,0 +1,51 @@
+DAY1 :
+
+1. What are the different data types present in javascript?
+
+Ans. JavaScript provides different data types to hold different types of values. 
+There are two types of data types in JavaScript :- Primitive data type and Non-primitive (reference) data type
+
+Primitive:
+String:	represents sequence of characters e.g. "hello"
+Number:	represents numeric values e.g. 100
+Boolean: represents boolean value either false or true
+Undefined: represents undefined value
+Null: represents null i.e. no value at all
+
+Non-Primitive:
+bject: represents instance through which we can access members
+Array: represents group of similar values
+RegExp:	represents regular expression
+
+
+2. What are the JavaScript Engines?
+Ans. A JavaScript engine is a computer program that executes JavaScript code and converts it into computer understandable language.
+
+List of JavaScript Engines:
+Google Chrome: V8
+Edge (Internet Explorer): Chakra
+Mozilla Firefox : Spider Monkey
+Safari : Javascript Core Webkit
+
+3. Explain ECMA in JS.
+Ans. Ecma International (formally European Computer Manufacturers Association) is a non-profit organization that develops standards in computer hardware, communications, and programming languages.
+
+
+4. Why We use JavaScript?
+Ans. JavaScript is a computer language used on the web. JavaScript can be used to update and modify HTML and CSS. It can be used to calculate, alter, and validate data. Users can interact with web pages using JavaScript. There are practically no limitations on what you may accomplish with JavaScript; the following are just a few examples of usage for it on a web page −
+
+-You can disclose or hide more information by pressing a button.
+-The color of a button changes when the mouse is over it.
+-The website has a carousel of images that you can scroll through.
+-Zooming in or out on a photo, using a timer or countdown on a website,
+-Playing audio and video content within a page,
+-Animating and displaying, using a hamburger drop-down menu, and more.
+
+5. What is JavaScript? And also Explain the histroy of JavaScript?
+Ans. JavaScript is a high-level, interpreted programming language. It is one of the three core technologies of the World Wide Web, along with HTML and CSS. JavaScript is used to make web pages interactive and dynamic. It can be used to add features such as menus, forms, and animations to web pages. JavaScript can also be used to create web applications, such as online games and social networking sites.
+History- 
+JavaScript was created by Brendan Eich in 1995. Eich was working at Netscape Communications at the time, and he was tasked with creating a scripting language that could be used to add interactivity to web pages. Eich named the language LiveScript, but it was later renamed to JavaScript.
+
+6. What is DOM in js?
+Ans. OM stands for Document Object Model. It is a tree-like structure that represents the elements of a web page. The DOM is created by the browser when it loads a web page, and it is used by JavaScript to access and manipulate the elements of the page.
+The DOM is made up of nodes, which are objects that represent the different elements of a web page. The most common types of nodes are elements, attributes, and text nodes. 
