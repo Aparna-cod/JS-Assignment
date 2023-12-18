@@ -1,0 +1,58 @@
+Day4:
+
+1. Create the Example for Logical Operators 
+Ans. 
+let a=10;
+let b=90;
+let c=100;
+let result = c>a && c>b
+console.log("is c the greatest among three of the number ;" + result)
+
+let a=11;
+let b=30;
+console.log(a%2 == 0 || b%2 ==0)
+
+let a = 1; 
+console.log(!a);
+
+2. Difference between “ == “ and “ === “ operators.
+Ans. 
+- == is used for comparing two variables, but it ignores the datatype of variable whereas === is used for comparing two variables, but this operator also checks datatype and compares two values.
+- == is called as comparison operator whereas === is also called as comparison operator.
+- == Return true only if the two operands are equal while === returns true only if both values and data types are the same for the two variables.
+- == in JavaScript is used for comparing two variables, but it ignores the datatype of variable.	=== is used for comparing two variables, but this operator also checks datatype and compares two values.
+
+2. How many operators do we have in JS ?
+Ans. There are different types of JavaScript operators:
+-Arithmetic Operators
+-Assignment Operators
+-Comparison Operators
+-String Operators
+-Logical Operators
+-Bitwise Operators
+-Ternary Operators
+-Type Operators
+
+4.What is use of parseInt in js?
+Ans. The JavaScript number parseInt() method parses a string argument and converts it into an integer value. 
+With string argument, we can also provide radix argument to specify the type of numeral system to be used.
+Syntax:
+Number.parseInt(string, radix)  
+
+5. Take input from user and find the odd and even number?
+
+Ans. 
+// program to check if the number is even or odd
+// take input from the user
+const number = prompt("Enter a number: ");
+
+//check if the number is even
+if(number % 2 == 0) {
+    console.log("The number is even.");
+}
+
+// if the number is odd
+else {
+    console.log("The number is odd.");
+}
+
